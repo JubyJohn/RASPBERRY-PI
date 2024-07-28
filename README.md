@@ -1,8 +1,12 @@
 # RASPBERRY-PI
 TO FAMILIARIZE WITH RASPBERRY PI
+![download](https://github.com/user-attachments/assets/1a62cfd3-bf50-4bd4-91ad-b3ac278d3420)
+
 
 <br> Hi everyone this week I familiarized myself with the Raspberry pi module and I like to share my experience with you all..
-Firstly, Am introduced to Raspberry Pi module and its architecture. Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries. It is a low-cost, credit-card-sized computer that can be plugged into a computer monitor or TV, and uses a standard keyboard and mouse.
+<br> Firstly, Am introduced to Raspberry Pi module and its architecture. Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries. It is a low-cost, credit-card-sized computer that can be plugged into a computer monitor or TV, and uses a standard keyboard and mouse.
+![raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8](https://github.com/user-attachments/assets/c9aa2e23-8364-4822-be27-4a2b547ea478)
+
 
 <br> We used Raspbian OS. Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware. It offers a user-friendly experience and comes with a variety of pre-installed software, including programming tools, productivity software, and games. Raspbian provides a smooth and efficient interface for users to interact with their Raspberry Pi devices, making it a popular choice for hobbyists and educational purposes.
 
@@ -10,6 +14,7 @@ Firstly, Am introduced to Raspberry Pi module and its architecture. Raspberry Pi
 
 <br> And also familiarized myself with commands that used for server hosting, website hosting, and so on
 <br> Some commonly used commands in Raspbian include:
+![lcd-sudo-su](https://github.com/user-attachments/assets/b1662860-7783-4cc4-9914-a016b64a0cb9)
 
 1. ls - List directory contents
 2. cd - Change directory
