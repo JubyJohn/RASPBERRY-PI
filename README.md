@@ -3,7 +3,7 @@ TO FAMILIARIZE WITH RASPBERRY PI
 
 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![download](https://github.com/user-attachments/assets/1a62cfd3-bf50-4bd4-91ad-b3ac278d3420)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![download](https://github.com/user-attachments/assets/1a62cfd3-bf50-4bd4-91ad-b3ac278d3420)
 
 
 <br> Hi everyone this week I familiarized myself with the Raspberry pi module and I like to share my experience with you all..
@@ -13,7 +13,7 @@ TO FAMILIARIZE WITH RASPBERRY PI
 
 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8](https://github.com/user-attachments/assets/c9aa2e23-8364-4822-be27-4a2b547ea478)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![raspberry-pi-4-labelled-f5e5dcdf6a34223235f83261fa42d1e8](https://github.com/user-attachments/assets/c9aa2e23-8364-4822-be27-4a2b547ea478)
 
 
 <br> We used Raspbian OS. Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware. It offers a user-friendly experience and comes with a variety of pre-installed software, including programming tools, productivity software, and games. Raspbian provides a smooth and efficient interface for users to interact with their Raspberry Pi devices, making it a popular choice for hobbyists and educational purposes.
