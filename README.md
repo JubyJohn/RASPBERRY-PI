@@ -22,6 +22,17 @@ TO FAMILIARIZE WITH RASPBERRY PI
 
 <br> We used Raspbian OS. Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware. It offers a user-friendly experience and comes with a variety of pre-installed software, including programming tools, productivity software, and games. Raspbian provides a smooth and efficient interface for users to interact with their Raspberry Pi devices, making it a popular choice for hobbyists and educational purposes.
 
+<br> Raspbian OS Installation. Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.
+1. Download and install Raspberry Pi Imager to a computer with an SD card reader.
+2. Put the SD card you'll use with your Raspberry Pi into the reader and run Raspberry Pi Imager. The SD card should be formatted. we can use SD card formatter app for that
+3. Once it complated, insert SD card to Raspberry Pi module and connect it to the system with following connections
+             - HDMI connection with desktop using microHDMI
+             - USB connection with keyboard,mouse
+             - Ethernet connection for internet connection
+             - Power supply connection
+4. After switching on desktop, then connect power supply
+5. Raspberry Pi desktop opens 
+
 <br> We have done UDP communication with Raspberry Pi. UDP, which stands for User Datagram Protocol, is one of the core protocols of the Internet protocol suite. It is a simple, connectionless protocol that operates on the transport layer and is often used in situations where speed and efficiency are more important than reliability. UDP is commonly used for streaming media, online games, voice over IP (VoIP), and other applications where real-time data transfer is critical. Unlike TCP, UDP does not provide error checking, flow control, or reliable data delivery, making it faster but less reliable for certain types of communication.
 
 <br> And also familiarized myself with commands that used for server hosting, website hosting, and so on
