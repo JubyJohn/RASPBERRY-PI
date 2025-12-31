@@ -1,0 +1,61 @@
+1) SPI Enable
+
+sudo raspi-config
+tab opens :
+select interface option -> Spi enable
+reboot :: sudo reboot or click raspberry icon -> shutdown -> reboot
+
+2) Update your Pi:
+
+sudo apt update
+sudo apt upgrade
+
+3) Install Python libraries:
+
+sudo apt update
+sudo apt install python3-venv python3-pip
+
+4) Create a virtual environment
+
+python3 -m venv rfid-env
+source rfid-env/bin/activate
+
+you should see: 
+          (rfid-env) pi@raspberrypi:~
+
+5) create a python file
+
+nano rfid_read.py
+Press CTRL + x → Enter (save)
+
+6) Python code
+
+from mfrc522 import SimpleMFRC522
+import RPi.GPIO as GPIO
+
+reader = SimpleMFRC522()
+
+try:
+    print("Place your RFID tag near the reader...")
+    id, text = reader.read()
+    print("ID:", id)
+    print("Text:", text)
+
+finally:
+    GPIO.cleanup()
+
+7) Run program
+
+python rfid_read.py
+
+Terminal shows:
+
+Place your RFID tag near the reader...
+
+Place RFID card near reader
+
+UID and text appear
+
+8) exit virtual environment
+
+dectivate
