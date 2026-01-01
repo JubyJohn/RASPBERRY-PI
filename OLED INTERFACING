@@ -1,0 +1,11 @@
+1) SPI Enable
+
+sudo raspi-config
+tab opens :
+select interface option -> I2C enable
+reboot :: sudo reboot or click raspberry icon -> shutdown -> reboot
+
+2) Update your Pi:
+
+sudo apt update
+sudo apt upgrade
